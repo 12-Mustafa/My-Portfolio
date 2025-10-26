@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.841c710b.css",
-    "main.js": "/My-Portfolio/static/js/main.46830a83.js",
+    "main.js": "/My-Portfolio/static/js/main.361afd85.js",
     "static/js/415.ce69831e.chunk.js": "/My-Portfolio/static/js/415.ce69831e.chunk.js",
     "static/js/787.128fc6e9.chunk.js": "/My-Portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/leaf.png": "/My-Portfolio/static/media/leaf.7e982a55104809ae074f.png",
@@ -18,16 +18,16 @@
     "static/media/matplotlib.png": "/My-Portfolio/static/media/matplotlib.71fb8a7d166ff36e4059.png",
     "static/media/seaborn-logo.png": "/My-Portfolio/static/media/seaborn-logo.848eb2ab699ebae28749.png",
     "static/media/scikit-learn-logo.png": "/My-Portfolio/static/media/scikit-learn-logo.49218baf024f20064649.png",
-    "static/media/avatar.svg": "/My-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/avatar--.svg": "/My-Portfolio/static/media/avatar--.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/My-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/My-Portfolio/index.html",
     "main.841c710b.css.map": "/My-Portfolio/static/css/main.841c710b.css.map",
-    "main.46830a83.js.map": "/My-Portfolio/static/js/main.46830a83.js.map",
+    "main.361afd85.js.map": "/My-Portfolio/static/js/main.361afd85.js.map",
     "415.ce69831e.chunk.js.map": "/My-Portfolio/static/js/415.ce69831e.chunk.js.map",
     "787.128fc6e9.chunk.js.map": "/My-Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.841c710b.css",
-    "static/js/main.46830a83.js"
+    "static/js/main.361afd85.js"
   ]
 }
