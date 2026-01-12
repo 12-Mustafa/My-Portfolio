@@ -11,24 +11,23 @@ function AboutCard() {
             Hi There, I am <span className="purple">Mohammed Mustafa </span>
             from <span className="blue"> Berlin, Germany.</span>
             <br />
-            I am in search of internship and werkstudent roles as an data Enthusiast.
+            I am a Master’s student in Data Science, AI, and Digital Business based in Germany,
+            seeking a mandatory Data Analyst / Business Intelligence internship starting April 2026.
             <br />
-            Pursuing Masters in Data science and Artificial Intelligence at Gisma university of applied science Germany,
-            additionally Masters in International Business Managment from kingston university London
+            My primary focus is on SQL-based data analysis, KPI reporting, dashboard development,
+            and transforming raw data into clear, business-ready insights.
+           <br />
+            I have hands-on experience working with Python (Pandas, NumPy), SQL, and Power BI
+            to support data-driven decision-making and stakeholder reporting.
+            <br/>
+            Available for werkstudent roles upto 20hr/week based in Berlin/Potsdam/remote.
+            <p>English: C1, German: A2(currently learning) </p> 
             <br />
             <br />
-            Apart from Project building in my leasure I spend time on other activities that I love to do!
+            
           </p>
           <ul>
-            <li className="about-activity">
-              <ImPointRight /> Community building    
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> business creation 
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
+        
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>

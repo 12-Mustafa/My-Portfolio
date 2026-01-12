@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar--.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,37 +19,21 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I admired programming since my schooling i have been learning technologies scince the begning, Futher i have completed bachelors in Information science and Enginerring.
-              <br />
-              <br />I am fluent in languages like
-              <i>
-                <b className="purple"> PYTHON, SQL. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new models related to;
-              <i>
-                <b className="purple">Data Analysis, Machine Learning, </b> and model predection {" "}
-                <b className="purple">
-                  .
-                </b>
-              </i>
-              <br />
-              <br />
-              I have been working on tools like   
-              with <b className="purple">Scikit-learn,</b> and
-              <i>
+              Master’s student in Data Science & Digital Business seeking a mandatory Data Analyst / BI
+              internship from April 2026. Focused on SQL-based analysis, KPI reporting, and Power BI
+              dashboards to support data-driven business decisions.
 
+              <br />
+              <br />
+              My field of Interest's are related to;
+              <i>
+                <b className="purple">   Data Analysis and business Intelligence. </b>  {" "}
                 <b className="purple">
-                  {" "}
-                  TensorFlow,
+          
                 </b>
               </i>
-              &nbsp; like
-              <i>
-                <b className="purple">PyTorch,
-CNNs, RNNs</b>
-              </i>
+              <br />
+              <br />
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -77,7 +61,7 @@ CNNs, RNNs</b>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://x.com/aariz1224"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

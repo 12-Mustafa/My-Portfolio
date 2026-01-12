@@ -8,6 +8,9 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import KPI from "../../Assets/Projects/KPI.png"
+import coffie from "../../Assets/Projects/coffie.png"
+import Equity from "../../Assets/Projects/Equity.png"
 
 function Projects() {
   return (
@@ -23,16 +26,37 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={KPI}
               isBlog={false}
-              title="Nvidia vs Bitcoin stock price predection "
-              description="Machine learning Model which predicts Traditional stock price of Nvidia vs Bitcoin to compare which stock is predicted accurately with various machine learning models and found the accuracy of best performing model"
-              ghLink="https://github.com/12-Mustafa/Nvidia-vs-bitcoin-prediction-.git"
+              title=" Sales KPI Analysis & Dashboard (SQL + BI) "
+              description="Built a SQL-based sales performance analysis and interactive Power BI dashboard to support KPI tracking and business decision-making."
+              ghLink="https://github.com/12-Mustafa/Sales-KPI-Analysis-Dashboard-SQL-BI-.git"
               
             />
           </Col>
 
           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={coffie}
+              isBlog={false}
+              title="Coffee Quality & Supplier Decision Analysis"
+              description="Analyzed coffee quality and defect data to identify key factors influencing quality scores and support data-driven supplier selection."
+              ghLink="https://github.com/12-Mustafa/Coffe-Sourcing.git"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Equity}
+              isBlog={false}
+              title="Market Performance & Risk Analysis (Crypto vs Equity) "
+              description="Compared historical performance and risk characteristics of cryptocurrency and equity assets using trend and volatility analysis."
+              ghLink="https://github.com/12-Mustafa/Nvidia-vs-bitcoin-prediction-.git"
+              
+            />
+          </Col>
+
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
@@ -40,16 +64,6 @@ function Projects() {
               description="NLP project that classifies news articles into predefined categories. model training using supervised learning algorithms, demonstrating end-to-end NLP workflow for text classification"
               ghLink="https://github.com/12-Mustafa/News-Airticle-Detection.git"
               
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Coffe Sourcing "
-              description="Analyzed the coffee dataset and feature analysis. Implemented visualizations with Matplotlib, Seaborn, and Plotly to identify trends and correlations for the coffe quality and various types."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
             />
           </Col>
 
@@ -70,20 +84,20 @@ function Projects() {
               title="E-commerce Customer behaviour"
               description="Analyzed a dataset of over 2 million customer orders to study purchasing patterns, reordering trends, and product preferences. Applied data preprocessing and advanced visualization techniques to uncover consumer insights. Findings support data-driven strategies for inventory management, product placement, and customer retention."
               ghLink="https://github.com/12-Mustafa/Ecommerece-customer-analysis-.git"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
 
-          <Col md={4} className="project-card">
+           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
               title="Sign Language Detection"
               description="Developed a machine learning model to recognize hand signs from image data. Implemented preprocessing, feature extraction, and classification using deep learning. Aimed at bridging communication gaps for the deaf and mute community"
               ghLink=""
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              // demoLink="https:"      <--------Please include a demo link here 
             />
-          </Col>
+          </Col> */}
+          
         </Row>
       </Container>
     </Container>
