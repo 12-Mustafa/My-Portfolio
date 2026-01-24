@@ -56,7 +56,7 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
@@ -94,9 +94,8 @@ function Projects() {
               title="Sign Language Detection"
               description="Developed a machine learning model to recognize hand signs from image data. Implemented preprocessing, feature extraction, and classification using deep learning. Aimed at bridging communication gaps for the deaf and mute community"
               ghLink=""
-              // demoLink="https:"      <--------Please include a demo link here 
             />
-          </Col> */}
+          </Col> 
           
         </Row>
       </Container>
