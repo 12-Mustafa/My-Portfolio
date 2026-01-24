@@ -1,4 +1,4 @@
-Forked from https://github.com/soumyajit4419/Portfolio personalised by Mohammed Mustafa
+ personalised by Mohammed Mustafa
 
 Mohammed Mustafa – Portfolio Website
 📖 Project Title & Description
